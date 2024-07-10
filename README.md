@@ -1,5 +1,5 @@
 # CODTECH-INTERNSHIP-IOT-TASK-2
-Name: Dhanush H
+Name: DINESHKUMAR S
 Company: CODETECH IT SOLUTIONS
 ID: CT08DS1824
 Domain: Internet of Things
